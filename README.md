@@ -15,7 +15,7 @@ Example: java RegistryServiceImpl Registry
 
 FOR USERS:
 
-Execute User program by executing: "java User ". Replace: with the name you want to give to User. (E.g. James) with hex code for this user's colour. (E.g. #FF0000 for Red) with the host address. (E.g. 192.168.0.8) with the name of Registry.
+Execute User program by executing: "java User ". Replace: with the name you want to give to User. (E.g. Santosh) with hex code for this user's colour. (E.g. #FF0000 for Red) with the host address. (E.g. 192.168.0.8) with the name of Registry.
 
 Example: java User James #FF0000 192.168.0.8 Registry
 
